@@ -10,3 +10,17 @@ Extensions
 - https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent
 - https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
 - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+
+https://hub.docker.com/_/python
+```
+FROM python:3
+
+WORKDIR /usr/src/app
+
+COPY requirements.txt ./
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY . .
+
+CMD [ "python", "./your-daemon-or-script.py" ]
+```
