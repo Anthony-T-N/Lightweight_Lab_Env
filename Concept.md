@@ -12,6 +12,8 @@ Extensions
 - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
 
 https://hub.docker.com/_/python
+
+Boilerplate Dockerfile
 ```
 FROM python:3
 
