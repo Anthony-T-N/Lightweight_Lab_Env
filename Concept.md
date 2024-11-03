@@ -13,7 +13,7 @@ Extensions
 
 https://hub.docker.com/_/python
 
-Boilerplate Dockerfile
+Dockerfile Boilerplate File
 ```
 FROM python:3
 
@@ -25,4 +25,9 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 CMD [ "python", "./your-daemon-or-script.py" ]
+```
+
+requirements.txt Boilerplate File
+```
+pytest==
 ```
