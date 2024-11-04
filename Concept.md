@@ -27,7 +27,5 @@ COPY . .
 CMD [ "python", "./your-daemon-or-script.py" ]
 ```
 
-requirements.txt Boilerplate File
-```
-pytest==
-```
+pip3 install pip-tools
+pip3 install pipreqs
