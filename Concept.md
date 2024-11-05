@@ -10,6 +10,7 @@ Extensions
 - https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent
 - https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
 - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+- Bracket Pair Colorization
 
 https://hub.docker.com/_/python
 
