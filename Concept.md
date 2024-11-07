@@ -1,6 +1,5 @@
 ### Framework
 - Docker on Windows Host/Environment
-- 
 - Visual Studio Code Dev Containers extension
 - https://code.visualstudio.com/docs/devcontainers/containers
 - https://www.docker.com/products/docker-desktop/
@@ -31,3 +30,5 @@ CMD [ "python", "./your-daemon-or-script.py" ]
 
 pip3 install pip-tools
 pip3 install pipreqs
+
+## Portability / Mobility
