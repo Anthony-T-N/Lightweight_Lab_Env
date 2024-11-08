@@ -32,3 +32,4 @@ pip3 install pip-tools
 pip3 install pipreqs
 
 ## Portability / Mobility
+- Project naming conventions
