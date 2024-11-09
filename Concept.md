@@ -33,3 +33,11 @@ pip3 install pipreqs
 
 ## Portability / Mobility
 - Project naming conventions
+
+```
+"extensions.showRecommendationsOnlyOnDemand": true,
+"telemetry.enableCrashReporter": false,
+"telemetry.enableTelemetry": false,
+"workbench.enableExperiments": false,
+"workbench.settings.enableNaturalLanguageSearch": false,
+```
