@@ -5,12 +5,18 @@
 - https://www.docker.com/products/docker-desktop/
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 
-Extensions
+## Extensions
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 - https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent
 - https://marketplace.visualstudio.com/items?itemName=charliermarsh.ruff
 - https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
-- Bracket Pair Colorization
+- https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+
+```
+"editor.guides.bracketPairs": "active"
+"editor.guides.indentation": true
+"editor.bracketPairColorization.enabled": true
+```
 
 https://hub.docker.com/_/python
 
@@ -34,6 +40,10 @@ pip3 install pipreqs
 ## Portability / Mobility
 - Project naming conventions
 
+
+https://code.visualstudio.com/updates/v1_26#_offline-mode
+
+Telemetry 
 ```
 "extensions.showRecommendationsOnlyOnDemand": true,
 "telemetry.enableCrashReporter": false,
@@ -41,3 +51,6 @@ pip3 install pipreqs
 "workbench.enableExperiments": false,
 "workbench.settings.enableNaturalLanguageSearch": false,
 ```
+
+Syntax highlighting testing
+https://gist.github.com/pshchelo/8e2784ef5304df57d2b6322de5a56dc9
