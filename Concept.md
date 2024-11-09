@@ -52,5 +52,5 @@ Telemetry
 "workbench.settings.enableNaturalLanguageSearch": false,
 ```
 
-Syntax highlighting testing
-https://gist.github.com/pshchelo/8e2784ef5304df57d2b6322de5a56dc9
+Syntax Highlighting Check File:
+`https://gist.github.com/pshchelo/8e2784ef5304df57d2b6322de5a56dc9`
