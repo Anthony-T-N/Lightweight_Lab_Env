@@ -18,7 +18,7 @@
 "editor.bracketPairColorization.enabled": true
 ```
 
-https://hub.docker.com/_/python
+## 
 
 Dockerfile Boilerplate File
 ```
@@ -39,7 +39,6 @@ pip3 install pipreqs
 
 ## Portability / Mobility
 - Project naming conventions
-
 
 https://code.visualstudio.com/updates/v1_26#_offline-mode
 
